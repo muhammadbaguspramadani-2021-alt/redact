@@ -1,0 +1,16 @@
+{
+  "fileId": "489248f4-29ee-444c-91d0-d6ae3b5f112c",
+  "receivedAt": "2026-05-07T15:01:07.117Z",
+  "incidentId": "INC-0001",
+  "hash": "fb7725c1982535e5656fe65ff635f2f773e642bc422eb176a1dde5ec08fa38de",
+  "ciphertext": "WBYpQ3iBUZdY77FW6gcKkPAU/wk/FKDBa03aQpwEJVdJrwnHtr4SK9yqcrWvjjIEThEca+5WRxTYsBz+v8IU1g6EdnaLsIHhuf4Ja7BYf1FCLmZ0WnWawZ6P7S0GcEPlZzB5MJMYfqxrXGsV7cQekoormKmoKYp4+dlWu6d041n7FQcVeHUbklg3YuPrLXxgw22XThfyLajxfw0khR1rWZC/nXk4ONTrIrcPOiIeseLrifLje/qwiyld/fBBqXPlHinYatlzcLS0vglIvBhia1AGUcvtuAr1XmGwTNdp3yMqHeaX1cCkphOM6Ya4DdUje5P7Xi164bQsO/JqYMdYycmz98ApjJWXLtzV0D78pUSeJEzkfR497CFUWJzJFM976YCKKoWGHYLm9fQ4jY+f2DqlJeK9u8tixpKznjWumY4ImG+z/HCyDpPlVz6eFIv+AaLOpBGeRKYbyM62yKMdS8ElJM1c2gVn42oDHAsGDyZkKefrKMOoLHqZDuI4OdGB7BK57fEvmS2WgkbtfjDnnl7G8cYNc0/qSB6A4e6ehaWrSLz33oLPu9SEGWktZj1m4ap9FODD8fp75eObqG7/ZXOkACMQNn3SyskgrJyQTTNPFGbP1APNyzO4O0JoiwKaJH+v8e3FodxZMl5SNZRB8liUSCNFS9gTWlxXT2q+PPvN+C+eGvMWyIo0gysCqEhLQd55J6XaCuySxlfC9W6GxYSAGHC85y8bcVJJvctbXQ6OLawpC4AYIXWmHVI5k055h+SX/BrjFo0mnKKhtt4+t0aBQqu1sfY6rjyDsMg9ioUUYTDEiCoTI8/GlT7vjSsr0AzWz97FJ0Q8QOH3hyQjN1rz2KUvQ10I+t/mP+aEjSYUkAL1u9BsEr5HYkgayzTbV50lpG5hKVT0kNfdAnPkvBadMnij4leUqFoQKWz1AxOgLjFfZBj1MHvLX4DP3DBkN9ZdkO50uq2rwdYscBgoQk6yrrRDrOMJ3LbH5IzVQ9e/6mpHGpa+7TiZCTk+Y/znSWaZ0FhtN08WFpSPvVmcemYknV8EV3fsgZz8sEXMXNiZzVpopmUd+EBE7siyt6/HTFvCGQsoCqFAoHJZgO5lTIxv0S36TBZ7rV/csM+ZVBilkjWiyAlOAQYFFvR6xpM=",
+  "envelope": {
+    "algo": "x25519-hkdf-sha256-aes-256-gcm",
+    "ephemeralPublicKey": "MCowBQYDK2VuAyEAAQqlaev1fLZKZK8knELB0eORhZIZRIfwVUydNZcIFS4=",
+    "salt": "BB5V8w2l0eFwFzwnu7OMHQ==",
+    "iv": "tLyYDlW2LdXHRtih",
+    "tag": "X8go3PQ1p3JFR/lThBwjHA==",
+    "wrappedKey": "6Ovo8si1DiB6KBKAUiL4AYtCtOH6qOrgJVsBfOOoMxE="
+  },
+  "schema": "redact-secure-drop-v1"
+}

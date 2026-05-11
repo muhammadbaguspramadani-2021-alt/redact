@@ -1,0 +1,16 @@
+{
+  "fileId": "c1d24cc3-9d34-45b3-b18b-0773dc42848a",
+  "receivedAt": "2026-05-07T14:43:34.596Z",
+  "incidentId": "INC-TEST01",
+  "hash": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+  "ciphertext": "base64ciphertext",
+  "envelope": {
+    "algo": "x25519-hkdf-sha256-aes-256-gcm",
+    "ephemeralPublicKey": "test",
+    "salt": "test",
+    "iv": "test",
+    "tag": "test",
+    "wrappedKey": "test"
+  },
+  "schema": "redact-secure-drop-v1"
+}
